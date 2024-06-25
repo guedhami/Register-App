@@ -6,7 +6,7 @@ This documentation outlines the steps taken to set up a Continuous Integration/C
 
 ## Workflow Diagram
 
-![CI/CD Pipeline Workflow](/webapp/src/main/webapp/ci-cd.png)
+![CI/CD Pipeline Workflow](/ci-cd.png)
 
 ## Tools Used
 
